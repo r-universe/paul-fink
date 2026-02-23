@@ -5,6 +5,3 @@
 [submodule "impimp"]
 	path = impimp
 	url = https://github.com/cran/impimp
-[submodule "imptree"]
-	path = imptree
-	url = https://github.com/paul-fink/imptree
